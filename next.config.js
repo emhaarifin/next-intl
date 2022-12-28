@@ -5,9 +5,9 @@
  **/
 const nextConfig = {
   i18n: {
-    locales: ['en', 'fr', 'nl'],
-    defaultLocale: 'en',
+    locales: ['en', 'id'],
+    defaultLocale: 'id',
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
